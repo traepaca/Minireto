@@ -19,14 +19,14 @@ for minireto in numeros{
 // Divisible entre 5
 
 for minireto in numeros{
-if minireto % 5 == 0{
-    print(minireto,"Bingo!!!")}
-    }
+    if minireto % 5 == 0{
+        print(minireto,"Bingo!!!")}
+}
 
 // Numeros par
 for minireto in numeros{
     if minireto % 2 == 0 {
-    print(minireto,"Par!!!")}
+        print(minireto,"Par!!!")}
 }
 
 // Numeros impar
